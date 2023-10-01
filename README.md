@@ -11,6 +11,12 @@ sudo softwareupdate --install-rosetta --agree-to-license
 ## cocoapods re-install
 https://guides.cocoapods.org/using/getting-started.html
 
+## Android
+USB debug ON
+
+- Android Studio Update
+- Xcode Update
+
 ## flutter doctor
 ```
 % flutter doctor
@@ -26,9 +32,3 @@ Doctor summary (to see all details, run flutter doctor -v):
 
 • No issues found!
 ```
-
-## Android
-USB debug ON
-
-- Android Studio Update
-- Xcode Update
