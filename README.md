@@ -13,15 +13,18 @@ https://guides.cocoapods.org/using/getting-started.html
 
 ## flutter doctor
 ```
+% flutter doctor
+Doctor summary (to see all details, run flutter doctor -v):
 [✓] Flutter (Channel stable, 3.13.6, on macOS 14.0 23A344 darwin-arm64, locale
     en-JP)
 [✓] Android toolchain - develop for Android devices (Android SDK version 33.0.0)
-[✓] Xcode - develop for iOS and macOS (Xcode 14.3.1)
-[✓] Android Studio (version 2021.3)
+[✓] Xcode - develop for iOS and macOS (Xcode 15.0)
+[✓] Android Studio (version 2022.3)
 [✓] VS Code (version 1.81.0)
-[!] Connected device
-    ! No devices available
+[✓] Connected device (1 available)
 [✓] Network resources
+
+• No issues found!
 ```
 
 ## Android
