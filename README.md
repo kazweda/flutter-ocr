@@ -24,3 +24,5 @@ https://guides.cocoapods.org/using/getting-started.html
 ## Android
 USB debug ON
 
+- Android Studio Update
+- Xcode Update
