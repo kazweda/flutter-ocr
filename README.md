@@ -1,5 +1,8 @@
 # flutter-ocr
 
+参考）
+https://zenn.dev/flutteruniv_dev/articles/4965c2860beb36
+
 ## system requirements
 ```
 sudo softwareupdate --install-rosetta --agree-to-license
